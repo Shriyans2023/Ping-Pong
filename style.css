@@ -27,3 +27,8 @@
 h4{
     margin: 0px;
 }
+video {
+    background-size: cover;
+    background-position:center;
+    padding: 25px;
+}
